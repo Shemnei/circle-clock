@@ -1,7 +1,12 @@
-### Themes
-![Light Theme](https://i.imgur.com/wIibyoI.png)
+# circle-clock
 
-![Dark Theme](https://i.imgur.com/mKYyfny.png)
+A simple self contained html site displaying a circular clock.
 
-### Running It
+## Running It
+
 Simply open the [index.html](index.html) with a browser.
+
+## Themes
+
+![Light Theme](.github/screenshots/light.png)
+![Dark Theme](.github/screenshots/dark.png)
